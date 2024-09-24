@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rupeshj28" target="_blank"><img src="https://img.shields.io/twitter/follow/rupeshj28?logo=twitter&style=for-the-badge" alt="rupeshj28" /></a> </p>
 
-<img align="right" alt="coding" width: "400" src="https://www.bing.com/th/id/OGC.efd1d77206043396e9b10ccd6cf277cc?pid=1.7&rurl=https%3a%2f%2fi.gifer.com%2f7lMC.gif&ehk=KaOE4%2fZWBNlzFWInxqbBIpIGikRrqdEOHu6pPDqs%2f74%3d">
+<img align="right" alt="coding" width: "400" src="https://www.bing.com/th/id/OGC.efd1d77206043396e9b10ccd6cf277cc?pid=1.7&rurl=https%3a%2f%2fi.gifer.com%2f7lMC.gif&ehk=KaOE4%2fZWBNlzFWInxqbBIpIGikRrqdEOHu6pPDqs%2f74%3d"
 
 - 🔭 I’m currently working on an **E-commerce Project**.
   
