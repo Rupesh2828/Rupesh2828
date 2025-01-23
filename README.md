@@ -9,9 +9,9 @@
 
 <img align="right" alt="coding" width= "400" src="https://www.bing.com/th/id/OGC.efd1d77206043396e9b10ccd6cf277cc?pid=1.7&rurl=https%3a%2f%2fi.gifer.com%2f7lMC.gif&ehk=KaOE4%2fZWBNlzFWInxqbBIpIGikRrqdEOHu6pPDqs%2f74%3d">
 
-- 🔭 I’m currently working on an **watchparty platform**.
+- 🔭 I’m currently working on an **watchparty platform- Building this platform where users can host watch parties, stream content together in sync, and interact through real-time chat and reactions.**.
   
-- 🌱 I’m currently learning **GraphQL** (a query language for APIs that allows clients to request exactly the data they need) and **Redis** (an in-memory data structure store used as a cache and database to speed up data retrieval, improve application performance, and manage real-time data).
+- 🌱 I’m currently learning **GO Lang and System Design**.
 
 - 👯 I’m looking to collaborate on **full-stack development projects that enhance user experience and accessibility**.
 
