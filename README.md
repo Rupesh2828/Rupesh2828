@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Jadhav</h1>
-<h3 align="center">A passionate full-stack developer who loves building things.</h3>
+<h3 align="center">I code things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2828&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2828" /> </p>
 
@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width= "400" src="https://www.bing.com/th/id/OGC.efd1d77206043396e9b10ccd6cf277cc?pid=1.7&rurl=https%3a%2f%2fi.gifer.com%2f7lMC.gif&ehk=KaOE4%2fZWBNlzFWInxqbBIpIGikRrqdEOHu6pPDqs%2f74%3d">
 
-- 🔭 I’m currently working on an **watchparty platform- Building this platform where users can host watch parties, stream content together in sync, and interact through real-time chat and reactions.**.
+- 🔭 I’m currently working on a **watchparty platform- Building this platform where users can host watch parties, stream content together in sync, and interact through real-time chat and reactions.**.
   
 - 🌱 I’m currently learning **GO Lang and System Design**.
 
